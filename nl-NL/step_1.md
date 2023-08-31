@@ -1,11 +1,11 @@
-Right-click in the Hierarchy window and select **Create Empty** 3D Object then give the new GameObject a sensible name.
+Klik met de rechtermuisknop in het Hierarchy venster en selecteer **Create Empty** 3D-object en geef het nieuwe GameObject een logische naam.
 
-Right-click your new 3D shape and add other 3D shapes from **Create** > **3D Object** as child GameObjects. The child objects will move with the first 3D shape GameObject.
+Klik met de rechtermuisknop op je nieuwe 3D-vorm en voeg andere 3D-vormen toe vanuit **Create** > **3D Object** als onderliggende game objects. De onderliggende objecten bewegen mee met het eerste GameObject.
 
-Bring your shapes to life by dragging Materials from the Project window to the shape in the Scene view.
+Breng je vormen tot leven door materialen uit het projectvenster naar de vorm in de scèneweergave te slepen.
 
-This helmet has a sphere with child GameObjects that are spheres, a capsule, and a cylinder. The shapes have been renamed to reflect the part of the helmet they represent and coloured with Materials.
+Deze helm heeft een bol met onderliggende GameObjects, dit zijn bollen, een capsule en een cilinder. De vormen zijn hernoemd om het deel van de helm weer te geven dat ze vertegenwoordigen en gekleurd met materialen.
 
-![The Hierarchy window showing the 3D shape child objects that make up the whole item.](images/helmet-objects.png)
+![Het Hierarchy venster met 3D-vormige onderliggende objecten die samen een object vormen.](images/helmet-objects.png)
 
-![A 3D shape item in Scene view.](images/helmet.png)
+![Een item bestaande uit 3D vormen in de scèneweergave.](images/helmet.png)
