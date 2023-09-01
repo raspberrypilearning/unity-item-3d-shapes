@@ -1,11 +1,11 @@
-Right-click in the Hierarchy window and select **Create Empty** 3D Object then give the new GameObject a sensible name.
+Fais un clic droit dans la fenêtre Hierarchy et sélectionne **Create Empty** puis donne un nom approprié au nouveau GameObject.
 
-Right-click your new 3D shape and add other 3D shapes from **Create** > **3D Object** as child GameObjects. The child objects will move with the first 3D shape GameObject.
+Fais un clic droit sur ta nouvelle forme 3D et ajoute d'autres formes 3D à partir de **Create** > **3D Object** en tant que GameObjects enfants. Les objets enfants se déplaceront avec la première forme 3D GameObject.
 
-Bring your shapes to life by dragging Materials from the Project window to the shape in the Scene view.
+Donne vie à tes formes en faisant glisser les matériaux de la fenêtre Project vers la forme dans la vue Scene.
 
-This helmet has a sphere with child GameObjects that are spheres, a capsule, and a cylinder. The shapes have been renamed to reflect the part of the helmet they represent and coloured with Materials.
+Ce casque a une sphère avec des GameObjects enfants qui sont des sphères, une capsule et un cylindre. Les formes ont été renommées pour refléter la partie du casque qu'elles représentent et colorées avec des matériaux.
 
-![The Hierarchy window showing the 3D shape child objects that make up the whole item.](images/helmet-objects.png)
+![La fenêtre Hierarchy montrant les objets enfants de forme 3D qui composent l'élément entier.](images/helmet-objects.png)
 
-![A 3D shape item in Scene view.](images/helmet.png)
+![Un objet de forme 3D dans la vue Scene.](images/helmet.png)
